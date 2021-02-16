@@ -1,6 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Akronim&family=Philosopher:ital@1&display=swap';
 @import 'https://fonts.googleapis.com/css2?family=Dynalight&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Newsreader:wght@600&display=swap';
 * {
 	padding: 0;
 	margin: 0;
@@ -67,15 +68,17 @@ p {
 .brand h1 {
 	font-size: 6rem;
 	/* text-transform: uppercase; */
-	color: #f9ed69;
+	color: #fff3b2;
 	/* font-family: 'Philosopher', sans-serif; */
-	font-family: 'Dynalight', cursive;
+/* 	font-family: 'Dynalight', cursive; */
+		font-family: 'Newsreader', serif;
 	
 }
 .brand h1 span {
-	color: rgb(25, 110, 207);
+	color:#00af91;
 	/* font-family: 'Akronim', cursive; */
-	font-family: 'Dynalight', cursive;
+/* 	font-family: 'Dynalight', cursive; */
+		font-family: 'Newsreader', serif;
 
 }
 /* Header section */
